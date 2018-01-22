@@ -1,0 +1,21 @@
+.page{
+	width:780px;
+	margin:auto;
+	font-size:16px;
+	font-family:'Source sans Pro',Calibri,Tahama,sans-serif;
+}
+.infotof{
+	height:150px;
+	
+}
+.info{
+	float:left;
+}
+.tof{
+	float:right;	
+}
+.section{
+	margin-bottom:20px;
+	text-align:justify;
+}
+201123
